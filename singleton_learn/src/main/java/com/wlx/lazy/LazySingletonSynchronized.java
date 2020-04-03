@@ -1,4 +1,4 @@
-package main.java.com.wlx.lazy;
+package com.wlx.lazy;
 
 /**
  * Mainbo.com Inc.

@@ -1,4 +1,4 @@
-package main.java.com.wlx.hungry;
+package com.wlx.hungry;
 
 /**
  * Mainbo.com Inc.
